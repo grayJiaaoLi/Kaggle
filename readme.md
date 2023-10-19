@@ -5,3 +5,6 @@ use the Titanic passenger data (name, age, price of ticket, etc) with the random
 
 ## 2. House Prices Prediction using TFDF
 train a baseline Random Forest model using TensorFlow Decision Forests on the House Prices dataset.
+
+## 3. Spaceship Titanic
+
